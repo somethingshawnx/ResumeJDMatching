@@ -1,0 +1,51 @@
+Dharmbir Singh
++91 7376557333 | dharmbirsingh2022@vitbhopal.ac.in |LinkedIn |GitHub|LeetCode
+Education
+Vellore Institute of Technology, Bhopal Aug 2022 – Aug 2026
+B.Tech in CSE(Artificial Intelligence and Machine Learning ) CGPA: 8.59
+Technical Skills
+• Languages: Python, Java
+• Databases & Tools: SQL, Excel, Git, Power BI, Tableau
+• Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+• Cloud & DevOps: AWS, REST APIs
+Experience
+Software Development Intern, Bluestock Fintech, Pune May 2025 - Jun 2025
+• Developed a full-stack web application using React.js, Node.js, and RESTful APIs with end-to-end testing, achieving
+100% deployment readiness and production ready code within two months timeline.
+• Collaborated with 5+ cross-functional team members on enterprise-level projects, achieving seamless integration
+targets for company’s live fintech platform serving 1000+ active users.
+Business Analytics Intern Apr 2024 – Jun 2024
+• Implemented machine learning algorithms including Random Forest and XGBoost for predictive modeling for motor
+vehicle accidents with 85%+ accuracy using Qlik’s cloud platform and ML models.
+• Reduced computational overhead by 30% and deployed 15+ interactive visualizations for real-time accident hotspot
+analysis.
+• Enhanced stakeholder decision-making by 40% through machine learning model deployment and automated business
+intelligence dashboards, enabling data-driven policy recommendations.
+Projects
+Integrating Machine Learning for Multiple Disease Prediction Aug 2023 – Nov 2023
+Python, Machine Learning (SVC, Logistic Regression), React, Node.js
+• Built end-to-end machine learning pipeline with feature engineering and hyperparameter tuning, achieving 85%
+accuracy using Support Vector Classifier and Logistic Regression algorithms.
+• Identified 12+ key medical features for model interpretability and deployed React-based interface reducing diagnosis
+time by 60% for early detection and preventive healthcare.
+Shopify Sales Analytics Dashboard Github Feb. 2024 – Mar. 2024
+MySQL & Power BI
+• Established a comprehensive sales analytics dashboard using MySQL for data processing and Power BI for visualization, analyzing transaction performance, customer behavior, and retention metrics.
+• Interactive visualizations created that include regional maps, trend analysis, and KPI tracking with dynamic measure selectors to support data-driven decision making for stakeholders.
+Resume Screening Application Github Mar 2025 – Apr 2025
+Python, OpenCV, TensorFlow, OpenPose
+• Designed interactive dashboard visualizing statistical analysis of 1000+ resumes, enabling recruiters to identify top
+candidates and emerging skill trends in the candidate pool.
+• Architected a machine learning-driven resume screening tool, achieving 85% accuracy in classifying resumes into
+job categories and reducing manual screening time by 60%, allowing recruiters to focus on top candidates.
+Certifications & Extracurricular
+• Applied Machine Learning in Python- Data Science Certification Dec 2023
+• Business Analytics and Data Visualization - Qlik Certified Jul 2024
+• Computer Vision and Deep Learning - AI/ML Certification Dec 2024
+• Deloitte - Data Analytics Job Simulation Aug 2025
+• Led 90+ members as President, orchestrating weekly meetings and fostering collaborative Aug 2024 – Aug 2025
+environment that enhanced club participation by 50%+
+Achievements
+• Completed 100 Days of DSA Challenge
+• Solved 200+ DSA problems
+• Advanced to top 50 out of 300+ teams in Health Hackathon Johns Hopkins University (USA).

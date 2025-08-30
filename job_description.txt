@@ -1,0 +1,58 @@
+Highly confidential - any distribution to third parties is strictly prohibited.
+Job description
+Data Science Analyst
+1
+Our company
+We’re a diverse group of visionary innovators who provide trading and workflow automation software,
+high-value analytics, and strategic consulting to corporations, central banks, financial institutions, and
+governments. Founded in 1999, we’ve achieved tremendous growth by bringing together some of the
+best and most successful financial technology companies in the world.
+ Over 2,000 of the world’s leading corporations, including 50% of the Fortune 500 and 30% of the
+world’s central banks, trust ION solutions to manage their cash, in-house banking, commodity
+supply chain, trading, and risk.
+ Over 800 of the world’s leading banks and broker-dealers use our electronic trading platforms
+to operate the world’s financial market infrastructure.
+ION is a rapidly expanding and dynamic group with 13,000 employees and offices in more than 40 cities
+around the globe,
+Our ever-expanding global footprint, cutting edge products, and over 40,000 customers worldwide
+provide an unparalleled career experience for those who share our vision.
+Learn more at iongroup.com.
+Your role
+We are seeking a motivated and curious Data Scientist to join our dynamic analytics team. As a starter at
+ION, you will work closely with senior data scientists and business stakeholders to extract insights from
+complex financial datasets and support the development of predictive models that enhance our products
+and services.
+Key Responsibilities
+ Assist in collecting, cleaning, and preprocessing large volumes of structured and unstructured
+data.
+ Support exploratory data analysis to identify trends, patterns, and anomalies.
+ Help build and validate predictive models using machine learning algorithms.
+ Collaborate with cross-functional teams including software engineers, business analysts, and
+domain experts.
+ Contribute to creating data visualizations and reports to communicate findings clearly to
+technical and non-technical audiences.
+ Stay up to date with the latest data science techniques and tools relevant to financial services.
+Preferred:
+ Knowledge of financial markets or interest in financial technologies.
+ Experience with data visualization tools (e.g., Tableau, Power BI, matplotlib, seaborn).
+Highly confidential - any distribution to third parties is strictly prohibited.
+Job description
+Data Science Analyst
+2
+ Understanding of cloud platforms (AWS, Azure, GCP) or big data technologies is a bonus.
+Required Skills, Qualifications:
+ Bachelor’s or Master’s degree in Computer Science, Statistics, Mathematics, Economics,
+Engineering, or a related field.
+ Basic understanding of statistics, machine learning, and data analysis techniques.
+ Familiarity with programming languages such as Python or R.
+ Experience with data manipulation and analysis libraries (e.g., pandas, numpy, scikit-learn).
+ Exposure to SQL and database querying.
+ Good problem-solving skills and attention to detail.
+ Strong communication skills and the ability to work collaboratively in a team environment.
+ Prior internship or project experience in data science or analytics is a plus.
+What We Offer:
+ Opportunity to grow and learn within a leading fintech company.
+ Mentorship from experienced data scientists.
+ Exposure to cutting-edge technology and real-world financial datasets.
+ Collaborative and inclusive work environment.
+ Competitive salary and benefits.
