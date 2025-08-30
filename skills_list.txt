@@ -1,0 +1,143 @@
+# ======================
+# Programming Languages
+# ======================
+python
+r
+java
+c++
+c#
+scala
+go
+javascript
+typescript
+bash
+shell scripting
+
+# ======================
+# Data Analysis & Visualization
+# ======================
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+excel
+tableau
+power bi
+lookerstudio
+qlikview
+
+# ======================
+# Databases & Querying
+# ======================
+sql
+mysql
+postgresql
+mongodb
+oracle
+cassandra
+dynamodb
+neo4j
+firebase
+redis
+
+# ======================
+# Machine Learning & AI
+# ======================
+machine learning
+deep learning
+nlp
+computer vision
+recommendation systems
+reinforcement learning
+transfer learning
+feature engineering
+model deployment
+time series analysis
+scikit-learn
+tensorflow
+keras
+pytorch
+huggingface
+openai
+langchain
+
+# ======================
+# Big Data & ETL
+# ======================
+etl
+spark
+hadoop
+airflow
+kafka
+flink
+databricks
+snowflake
+redshift
+bigquery
+data warehouse
+data lake
+data pipeline
+
+# ======================
+# Cloud Platforms
+# ======================
+aws
+azure
+gcp
+ibm cloud
+digital ocean
+oracle cloud
+heroku
+
+# ======================
+# DevOps & CI/CD
+# ======================
+docker
+kubernetes
+git
+jenkins
+ansible
+terraform
+ci/cd
+github actions
+bitbucket pipelines
+
+# ======================
+# Software Engineering & APIs
+# ======================
+rest api
+graphql
+fastapi
+flask
+django
+spring boot
+node.js
+express.js
+microservices
+system design
+object oriented programming
+functional programming
+
+# ======================
+# Tools & Platforms
+# ======================
+jira
+confluence
+notion
+microsoft office
+slack
+figma
+
+# ======================
+# Soft Skills & Others
+# ======================
+team management
+project management
+stakeholder communication
+problem solving
+critical thinking
+agile
+scrum
+kanban
+leadership
